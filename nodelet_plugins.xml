@@ -1,0 +1,6 @@
+<library path="lib/libusb_cam_nodelet">
+  <class name="usb_cam/UsbCamNodelet" type="usb_cam::UsbCamNodelet" base_class_type="nodelet::Nodelet">
+    <description>
+    </description>
+  </class>
+</library>
